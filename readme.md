@@ -24,7 +24,7 @@ Smart contract programming language for the Ethereum Virtual Machine.
 ## Learning Materials
 
 - [CryptoZombies](https://cryptozombies.io/) - Interactive Solidity tutorials through game development.
-- [Cyfrin Updraft](https://updraft.cyfrin.io/) - Comprehensive Solidity and smart contract security courses.
+- [Cyfrin Updraft](https://www.cyfrin.io/updraft) - Comprehensive Solidity and smart contract security courses.
 - [Ethernaut](https://ethernaut.openzeppelin.com/) - Web3/Solidity security challenges.
 - [Mastering Ethereum](https://github.com/ethereumbook/ethereumbook) - Comprehensive open-source book covering Ethereum fundamentals, Solidity, and dapp development.
 - [Solidity by Example](https://solidity-by-example.org/) - Concise code examples with explanations.
