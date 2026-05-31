@@ -28,6 +28,7 @@ Smart contract programming language for the Ethereum Virtual Machine.
 - [Ethernaut](https://ethernaut.openzeppelin.com/) - Web3/Solidity security challenges.
 - [Mastering Ethereum](https://github.com/ethereumbook/ethereumbook) - Comprehensive open-source book covering Ethereum fundamentals, Solidity, and dapp development.
 - [Solidity by Example](https://solidity-by-example.org/) - Concise code examples with explanations.
+- [WTF-Solidity](https://github.com/AmazingAng/WTF-Solidity/blob/main/Languages/en/README.md) - Comprehensive Solidity tutorial for beginners with English and Chinese versions.
 
 ## Developer Tools
 
@@ -41,8 +42,9 @@ Smart contract programming language for the Ethereum Virtual Machine.
 
 ## Libraries & Frameworks
 
-- [Huff](https://github.com/huff-language/huff-rs) - Low-level assembly language for the Ethereum Virtual Machine.
+- [Huff](https://github.com/huff-language/huff2) - Low-level assembly language for the Ethereum Virtual Machine.
 - [OpenZeppelin Contracts](https://www.openzeppelin.com/solidity-contracts) - Secure smart contract components.
+- [PRBMath](https://github.com/PaulRBerg/prb-math) - Advanced fixed-point math library for Solidity.
 - [Solady](https://github.com/Vectorized/solady) - Gas-optimized Solidity library using low-level assembly.
 
 ## Security & Best Practices
@@ -57,7 +59,7 @@ Smart contract programming language for the Ethereum Virtual Machine.
 
 ## Security Analysis Tools
 
-- [OpenZeppelin Inspector](https://github.com/OpenZeppelin/openzeppelin-inspector) - Open-source static analysis tool for Solidity.
+- [Aderyn](https://github.com/Cyfrin/aderyn) - Rust-based static analysis tool for Solidity by Cyfrin.
 - [Slither](https://github.com/crytic/slither) - Static analysis framework for Solidity.
 - [Solhint](https://github.com/protofire/solhint) - Solidity linter for security and style guide validations.
 - [SolidityScan](https://solidityscan.com/) - Automated smart contract security audit platform.
@@ -68,7 +70,6 @@ Smart contract programming language for the Ethereum Virtual Machine.
 - [Medusa](https://github.com/crytic/medusa) - Parallel fuzzing engine for smart contracts with advanced techniques.
 - [Certora Prover](https://www.certora.com/) - Formal verification for smart contracts.
 - [Olympix Static Analyzer](https://olympix.security/resources/free-static-analyzer) - Free Solidity static analysis tool.
-- [rocq-of-solidity](https://github.com/formal-land/rocq-of-solidity) - Formal verification for smart contracts with Rocq.
 
 ## Gas Optimization
 
