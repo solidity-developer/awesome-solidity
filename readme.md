@@ -24,23 +24,26 @@ Smart contract programming language for the Ethereum Virtual Machine.
 ## Learning Materials
 
 - [CryptoZombies](https://cryptozombies.io/) - Interactive Solidity tutorials through game development.
+- [Cyfrin Updraft](https://www.cyfrin.io/updraft) - Comprehensive Solidity and smart contract security courses.
 - [Ethernaut](https://ethernaut.openzeppelin.com/) - Web3/Solidity security challenges.
 - [Mastering Ethereum](https://github.com/ethereumbook/ethereumbook) - Comprehensive open-source book covering Ethereum fundamentals, Solidity, and dapp development.
 - [Solidity by Example](https://solidity-by-example.org/) - Concise code examples with explanations.
 
 ## Developer Tools
 
-- [Hardhat](https://hardhat.org/) - Ethereum development environment.
+- [ApeWorx](https://www.apeworx.io/) - Python-based smart contract development framework.
 - [Foundry](https://www.getfoundry.sh/) - Fast smart contract development toolkit.
+- [Hardhat](https://hardhat.org/) - Ethereum development environment.
+- [OpenZeppelin Contracts Wizard](https://wizard.openzeppelin.com/) - Interactive smart contract generator.
+- [OpenZeppelin MCP](https://mcp.openzeppelin.com/) - AI-powered smart contract generation via Model Context Protocol.
 - [Remix IDE](https://remix.ethereum.org/) - Web-based Solidity IDE.
 - [Tenderly](https://tenderly.co/) - Smart contract debugging and monitoring.
-- [OpenZeppelin Contracts Wizard](https://wizard.openzeppelin.com/) - Interactive smart contract generator.
 
 ## Libraries & Frameworks
 
+- [Huff](https://github.com/huff-language/huff-rs) - Low-level assembly language for the Ethereum Virtual Machine.
 - [OpenZeppelin Contracts](https://www.openzeppelin.com/solidity-contracts) - Secure smart contract components.
 - [Solady](https://github.com/Vectorized/solady) - Gas-optimized Solidity library using low-level assembly.
-- [Dappsys](https://github.com/dapphub/dappsys) - Modular system components.
 
 ## Security & Best Practices
 
@@ -57,9 +60,11 @@ Smart contract programming language for the Ethereum Virtual Machine.
 - [OpenZeppelin Inspector](https://github.com/OpenZeppelin/openzeppelin-inspector) - Open-source static analysis tool for Solidity.
 - [Slither](https://github.com/crytic/slither) - Static analysis framework for Solidity.
 - [Solhint](https://github.com/protofire/solhint) - Solidity linter for security and style guide validations.
+- [SolidityScan](https://solidityscan.com/) - Automated smart contract security audit platform.
 - [Surya](https://github.com/ConsenSysDiligence/surya) - Utility for smart contract systems analysis.
 - [Echidna](https://github.com/crytic/echidna) - Property-based fuzzer for smart contracts.
 - [Forta Network](https://docs.forta.network/en/latest/) - Decentralized runtime security monitoring network for smart contracts.
+- [Manticore](https://github.com/trailofbits/manticore) - Symbolic execution tool for smart contract and binary analysis.
 - [Medusa](https://github.com/crytic/medusa) - Parallel fuzzing engine for smart contracts with advanced techniques.
 - [Certora Prover](https://www.certora.com/) - Formal verification for smart contracts.
 - [Olympix Static Analyzer](https://olympix.security/resources/free-static-analyzer) - Free Solidity static analysis tool.
@@ -69,7 +74,6 @@ Smart contract programming language for the Ethereum Virtual Machine.
 
 - [evm.codes](https://www.evm.codes/) - EVM opcode gas reference.  
 - [Foundry Gas Reports](https://www.getfoundry.sh/forge/gas-tracking) - Built-in gas profiling for Solidity tests.
-- [Awesome Gas Optimization](https://github.com/0xisk/awesome-solidity-gas-optimization) - Curated list of gas optimization resources.
 - [Solidity Optimizer](https://docs.soliditylang.org/en/latest/internals/optimizer.html) - Detailed explanation of Solidity's optimizer stages and components.
 
 ## Upgradeable Contracts
