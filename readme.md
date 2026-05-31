@@ -37,7 +37,10 @@ Smart contract programming language for the Ethereum Virtual Machine.
 - [Hardhat](https://hardhat.org/) - Ethereum development environment.
 - [OpenZeppelin Contracts Wizard](https://wizard.openzeppelin.com/) - Interactive smart contract generator.
 - [OpenZeppelin MCP](https://mcp.openzeppelin.com/) - AI-powered smart contract generation via Model Context Protocol.
+- [prettier-plugin-solidity](https://github.com/prettier-solidity/prettier-plugin-solidity) - Prettier plugin for automatically formatting Solidity code.
 - [Remix IDE](https://remix.ethereum.org/) - Web-based Solidity IDE.
+- [solidity-coverage](https://github.com/sc-forks/solidity-coverage) - Code coverage tool for Solidity smart contracts.
+- [Sourcify](https://github.com/argotorg/sourcify) - Open-source decentralized source code verification service for Ethereum.
 - [Tenderly](https://tenderly.co/) - Smart contract debugging and monitoring.
 
 ## Libraries & Frameworks
@@ -50,7 +53,6 @@ Smart contract programming language for the Ethereum Virtual Machine.
 ## Security & Best Practices
 
 - [Security Considerations](https://docs.soliditylang.org/en/latest/security-considerations.html#security-considerations) - Official security guide.
-- [ConsenSys Smart Contract Best Practices](https://consensysdiligence.github.io/smart-contract-best-practices/) - Comprehensive security guide.
 - [Smart Contract Security Verification Standard](https://securing.github.io/SCSVS/) - Security checklist.
 - [EEA EthTrust Security Levels Specification](https://entethalliance.org/specs/ethtrust-sl/) - Smart contract security certification requirements.
 - [Rekt News](https://rekt.news/) - Investigative journalism and incident analysis of DeFi exploits and hacks.
@@ -60,16 +62,17 @@ Smart contract programming language for the Ethereum Virtual Machine.
 ## Security Analysis Tools
 
 - [Aderyn](https://github.com/Cyfrin/aderyn) - Rust-based static analysis tool for Solidity by Cyfrin.
-- [Slither](https://github.com/crytic/slither) - Static analysis framework for Solidity.
-- [Solhint](https://github.com/protofire/solhint) - Solidity linter for security and style guide validations.
-- [SolidityScan](https://solidityscan.com/) - Automated smart contract security audit platform.
-- [Surya](https://github.com/ConsenSysDiligence/surya) - Utility for smart contract systems analysis.
+- [Certora Prover](https://www.certora.com/) - Formal verification for smart contracts.
 - [Echidna](https://github.com/crytic/echidna) - Property-based fuzzer for smart contracts.
 - [Forta Network](https://docs.forta.network/en/latest/) - Decentralized runtime security monitoring network for smart contracts.
 - [Manticore](https://github.com/trailofbits/manticore) - Symbolic execution tool for smart contract and binary analysis.
 - [Medusa](https://github.com/crytic/medusa) - Parallel fuzzing engine for smart contracts with advanced techniques.
-- [Certora Prover](https://www.certora.com/) - Formal verification for smart contracts.
+- [Mythril](https://github.com/ConsenSysDiligence/mythril) - Symbolic-execution-based security analysis tool for EVM bytecode.
 - [Olympix Static Analyzer](https://olympix.security/resources/free-static-analyzer) - Free Solidity static analysis tool.
+- [Slither](https://github.com/crytic/slither) - Static analysis framework for Solidity.
+- [Solhint](https://github.com/protofire/solhint) - Solidity linter for security and style guide validations.
+- [SolidityScan](https://solidityscan.com/) - Automated smart contract security audit platform.
+- [Surya](https://github.com/ConsenSysDiligence/surya) - Utility for smart contract systems analysis.
 
 ## Gas Optimization
 
