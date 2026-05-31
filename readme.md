@@ -1,9 +1,4 @@
-<h1 align="center">Awesome Solidity</h1>
-<p align="center">
-    <a href="https://github.com/sindresorhus/awesome">
-        <img alt="Awesome" src="https://awesome.re/badge.svg">
-    </a>
-</p>
+<h1 align="left">Awesome Solidity <a href="https://github.com/sindresorhus/awesome"><img alt="Awesome" src="https://awesome.re/badge.svg"></a></h1>
 
 Smart contract programming language for the Ethereum Virtual Machine.
 
