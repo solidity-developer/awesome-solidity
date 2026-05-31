@@ -41,7 +41,7 @@ Smart contract programming language for the Ethereum Virtual Machine.
 
 ## Libraries & Frameworks
 
-- [Huff](https://huff.sh/) - Low-level assembly language for the Ethereum Virtual Machine.
+- [Huff](https://github.com/huff-language/huff-rs) - Low-level assembly language for the Ethereum Virtual Machine.
 - [OpenZeppelin Contracts](https://www.openzeppelin.com/solidity-contracts) - Secure smart contract components.
 - [Solady](https://github.com/Vectorized/solady) - Gas-optimized Solidity library using low-level assembly.
 
