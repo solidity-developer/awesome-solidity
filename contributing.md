@@ -13,6 +13,8 @@ Ensure your pull request adheres to the following guidelines:
 -  **Proper Formatting**:
 - Use `[Resource Name](URL)` with a **1-sentence description** (e.g., "*Library for gas-efficient contracts*").
 
+- **GitHub Stars Badge**: If the resource has a GitHub repository, append a clickable shields.io social stars badge: `[![Stars](https://badgen.net/github/stars/OWNER/REPO)](https://github.com/OWNER/REPO)`.
+
 - Keep categories **alphabetically ordered**.
 
 -  **Category Alignment**: Place resources in the most specific relevant category. If suggesting a new category, open an Issue first for discussion.
