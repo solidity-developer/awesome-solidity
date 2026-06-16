@@ -13,6 +13,7 @@ Smart contract programming language for the Ethereum Virtual Machine.
 - [Gas Optimization](#gas-optimization)
 - [Upgradeable Contracts](#upgradeable-contracts)
 - [Advanced Topics](#advanced-topics)
+- [AI \& Agentic Development](#ai--agentic-development)
 - [Community \& Support](#community--support)
 
 ## Official Resources
@@ -89,6 +90,13 @@ Smart contract programming language for the Ethereum Virtual Machine.
 
 - [Yul Documentation](https://docs.soliditylang.org/en/latest/yul.html) - Low-level language for Ethereum.
 - [LearnEVM](https://learnevm.com/) - Free advanced EVM course for Solidity developers.
+
+## AI & Agentic Development
+
+- [Blockscout MCP](https://github.com/blockscout/mcp-server) - MCP server wrapping Blockscout APIs for on-chain data access via AI agents.
+- [EVMbench](https://openai.com/index/introducing-evmbench) - OpenAI and Paradigm benchmark for evaluating AI agents on smart contract vulnerability detection, patching, and exploitation.
+- [Foundry MCP Server](https://github.com/PraneshASP/foundry-mcp-server) - MCP server connecting LLM assistants to the Foundry toolchain for Solidity development.
+- [solidity-security skill](https://skills.sh/wshobson/agents/solidity-security) - Reusable AI agent skill pack for secure Solidity development patterns and vulnerability prevention.
 
 ## Community & Support
 
