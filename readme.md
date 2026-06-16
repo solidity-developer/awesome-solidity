@@ -96,20 +96,20 @@ Smart contract programming language for the Ethereum Virtual Machine.
 ### Skills
 
 - [OpenZeppelin Skills](https://github.com/OpenZeppelin/openzeppelin-skills) - Claude Code agent skills teaching AI coding assistants to build secure smart contracts using current OpenZeppelin libraries.
-- [pashov/skills](https://github.com/pashov/skills) - Reusable AI agent skill pack for Solidity security auditing with multi-agent orchestration.
-- [solidity-security skill](https://skills.sh/wshobson/agents/solidity-security) - Reusable AI agent skill pack for secure Solidity development patterns and vulnerability prevention.
-- [trailofbits/skills](https://github.com/trailofbits/skills) - Trail of Bits Claude Code skills for security research, vulnerability detection, and audit workflows.
+- [Pashov Skills](https://github.com/pashov/skills) - Reusable AI agent skill pack for Solidity security auditing with multi-agent orchestration.
+- [Solidity Security Skill](https://skills.sh/wshobson/agents/solidity-security) - Reusable AI agent skill pack for secure Solidity development patterns and vulnerability prevention.
+- [Trail of Bits Skills](https://github.com/trailofbits/skills) - Trail of Bits Claude Code skills for security research, vulnerability detection, and audit workflows.
 
 ### Tools
 
 - [Blockscout MCP](https://github.com/blockscout/mcp-server) - MCP server wrapping Blockscout APIs for on-chain data access via AI agents.
-- [evm-mcp-server](https://github.com/mcpdotdirect/evm-mcp-server) - MCP server providing LLMs with tools for interacting with 60+ EVM networks.
+- [EVM MCP Server](https://github.com/mcpdotdirect/evm-mcp-server) - MCP server providing LLMs with tools for interacting with 60+ EVM networks.
 - [EVMbench](https://openai.com/index/introducing-evmbench) - OpenAI and Paradigm benchmark for evaluating AI agents on smart contract vulnerability detection, patching, and exploitation.
-- [finite-monkey-engine](https://github.com/BradMoonUESTC/finite-monkey-engine) - AI-driven code security analysis platform for blockchain audit with Solidity Tree-sitter parsing and RAG architecture.
+- [Finite Monkey Engine](https://github.com/BradMoonUESTC/finite-monkey-engine) - AI-driven code security analysis platform for blockchain audit with Solidity Tree-sitter parsing and RAG architecture.
 - [Foundry MCP Server](https://github.com/PraneshASP/foundry-mcp-server) - MCP server connecting LLM assistants to the Foundry toolchain for Solidity development.
 - [Plamen](https://github.com/PlamenTSV/plamen) - Autonomous Web3 security audit agent orchestrating 18-100 AI agents across 8 phases for EVM/Solidity.
+- [Trail of Bits Claude Code Config](https://github.com/trailofbits/claude-code-config) - Opinionated defaults, documentation, and workflows for Claude Code at Trail of Bits.
 - [Trailmark](https://github.com/trailofbits/trailmark) - Builds and queries multi-language source code graphs for AI-assisted Solidity security analysis.
-- [trailofbits/claude-code-config](https://github.com/trailofbits/claude-code-config) - Opinionated defaults, documentation, and workflows for Claude Code at Trail of Bits.
 
 ## Community & Support
 
