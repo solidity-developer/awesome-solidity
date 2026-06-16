@@ -105,7 +105,7 @@ Smart contract programming language for the Ethereum Virtual Machine.
 - [Blockscout MCP](https://github.com/blockscout/mcp-server) - MCP server wrapping Blockscout APIs for on-chain data access via AI agents.
 - [EVM MCP Server](https://github.com/mcpdotdirect/evm-mcp-server) - MCP server providing LLMs with tools for interacting with 60+ EVM networks.
 - [EVMbench](https://openai.com/index/introducing-evmbench) - OpenAI and Paradigm benchmark for evaluating AI agents on smart contract vulnerability detection, patching, and exploitation.
-- [Finite Monkey Engine](https://github.com/BradMoonUESTC/finite-monkey-engine) - AI-driven code security analysis platform for blockchain audit with Solidity Tree-sitter parsing and RAG architecture.
+- [Finite Monkey Engine](https://github.com/BradMoonUESTC/finite-monkey-engine) - AI-driven code security analysis platform for Blockchain audit with Solidity Tree-sitter parsing and RAG architecture.
 - [Foundry MCP Server](https://github.com/PraneshASP/foundry-mcp-server) - MCP server connecting LLM assistants to the Foundry toolchain for Solidity development.
 - [Plamen](https://github.com/PlamenTSV/plamen) - Autonomous Web3 security audit agent orchestrating 18-100 AI agents across 8 phases for EVM/Solidity.
 - [Trail of Bits Claude Code Config](https://github.com/trailofbits/claude-code-config) - Opinionated defaults, documentation, and workflows for Claude Code at Trail of Bits.
