@@ -1,0 +1,3 @@
+max_concurrency = 8
+max_retries = 3
+retry_wait_time = 5
