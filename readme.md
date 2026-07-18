@@ -79,6 +79,7 @@ Smart contract programming language for the Ethereum Virtual Machine.
 
 - [evm.codes](https://www.evm.codes/) - EVM opcode gas reference. [![Stars](https://badgen.net/github/stars/duneanalytics/evm.codes)](https://github.com/duneanalytics/evm.codes)  
 - [Foundry Gas Reports](https://www.getfoundry.sh/forge/gas-tracking) - Built-in gas profiling for Solidity tests.
+- [RareSkills Book of Solidity Gas Optimization](https://rareskills.io/post/gas-optimization) - Comprehensive guide covering 80+ gas optimization techniques including assembly and storage patterns.
 - [Solidity Optimizer](https://docs.soliditylang.org/en/latest/internals/optimizer.html) - Detailed explanation of Solidity's optimizer stages and components.
 
 ## Upgradeable Contracts
