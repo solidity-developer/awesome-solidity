@@ -65,6 +65,7 @@ Smart contract programming language for the Ethereum Virtual Machine.
 - [Aderyn](https://github.com/Cyfrin/aderyn) - Rust-based static analysis tool for Solidity by Cyfrin. [![Stars](https://badgen.net/github/stars/Cyfrin/aderyn)](https://github.com/Cyfrin/aderyn)
 - [Certora Prover](https://www.certora.com/) - Formal verification for smart contracts.
 - [Echidna](https://github.com/crytic/echidna) - Property-based fuzzer for smart contracts. [![Stars](https://badgen.net/github/stars/crytic/echidna)](https://github.com/crytic/echidna)
+- [evmbench](https://github.com/paradigmxyz/evmbench) - Benchmark and harness for finding and exploiting smart contract vulnerabilities. [![Stars](https://badgen.net/github/stars/paradigmxyz/evmbench)](https://github.com/paradigmxyz/evmbench)
 - [Forta Network](https://docs.forta.network/en/latest/) - Decentralized runtime security monitoring network for smart contracts. [![Stars](https://badgen.net/github/stars/forta-network/forta-contracts)](https://github.com/forta-network/forta-contracts)
 - [Manticore](https://github.com/trailofbits/manticore) - Symbolic execution tool for smart contract and binary analysis. [![Stars](https://badgen.net/github/stars/trailofbits/manticore)](https://github.com/trailofbits/manticore)
 - [Medusa](https://github.com/crytic/medusa) - Parallel fuzzing engine for smart contracts with advanced techniques. [![Stars](https://badgen.net/github/stars/crytic/medusa)](https://github.com/crytic/medusa)
