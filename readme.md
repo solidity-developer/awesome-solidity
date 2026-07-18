@@ -72,6 +72,7 @@ Smart contract programming language for the Ethereum Virtual Machine.
 - [Medusa](https://github.com/crytic/medusa) - Parallel fuzzing engine for smart contracts with advanced techniques. [![Stars](https://badgen.net/github/stars/crytic/medusa)](https://github.com/crytic/medusa)
 - [Mythril](https://github.com/ConsenSysDiligence/mythril) - Symbolic-execution-based security analysis tool for EVM bytecode. [![Stars](https://badgen.net/github/stars/ConsenSysDiligence/mythril)](https://github.com/ConsenSysDiligence/mythril)
 - [Olympix Static Analyzer](https://olympix.security/resources/free-static-analyzer) - Free Solidity static analysis tool.
+- [Radar](https://github.com/Auditware/radar) - Multi-language static analysis tool (Solidity, Rust, Anchor, Stylus) with customizable YAML rule engine for detecting vulnerable code patterns. [![Stars](https://badgen.net/github/stars/Auditware/radar)](https://github.com/Auditware/radar)
 - [Slither](https://github.com/crytic/slither) - Static analysis framework for Solidity. [![Stars](https://badgen.net/github/stars/crytic/slither)](https://github.com/crytic/slither)
 - [Solhint](https://github.com/protofire/solhint) - Solidity linter for security and style guide validations. [![Stars](https://badgen.net/github/stars/protofire/solhint)](https://github.com/protofire/solhint)
 - [SolidityScan](https://solidityscan.com/) - Automated smart contract security audit platform.
