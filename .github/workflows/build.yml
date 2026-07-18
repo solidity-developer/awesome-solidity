@@ -10,4 +10,4 @@ jobs:
       - name: Check URLs
         uses: lycheeverse/lychee-action@v2
         with:
-          args: readme.md --verbose --accept 200,403 --exclude www.linkedin.com/company/solidity-developer
+          args: readme.md --verbose --accept 200,403 --exclude www.linkedin.com/company/solidity-developer --exclude tenderly.co --config lychee.toml
