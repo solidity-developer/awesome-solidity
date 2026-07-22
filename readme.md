@@ -99,6 +99,7 @@ Smart contract programming language for the Ethereum Virtual Machine.
 
 ### Skills
 
+- [Cyfrin Solskill](https://github.com/Cyfrin/solskill) - Claude Code agent skills for production-grade Solidity development standards, testing patterns, and BattleChain deployment. [![Stars](https://badgen.net/github/stars/Cyfrin/solskill)](https://github.com/Cyfrin/solskill)
 - [OpenZeppelin Skills](https://github.com/OpenZeppelin/openzeppelin-skills) - Claude Code agent skills teaching AI coding assistants to build secure smart contracts using current OpenZeppelin libraries. [![Stars](https://badgen.net/github/stars/OpenZeppelin/openzeppelin-skills)](https://github.com/OpenZeppelin/openzeppelin-skills)
 - [Pashov Skills](https://github.com/pashov/skills) - Reusable AI agent skill pack for Solidity security auditing with multi-agent orchestration. [![Stars](https://badgen.net/github/stars/pashov/skills)](https://github.com/pashov/skills)
 - [Solidity Security Skill](https://www.skills.sh/wshobson/agents/solidity-security) - Reusable AI agent skill pack for secure Solidity development patterns and vulnerability prevention. [![Stars](https://badgen.net/github/stars/wshobson/agents)](https://github.com/wshobson/agents)
