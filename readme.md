@@ -44,6 +44,7 @@ Smart contract programming language for the Ethereum Virtual Machine.
 - [solidity-coverage](https://github.com/sc-forks/solidity-coverage) - Code coverage tool for Solidity smart contracts. [![Stars](https://badgen.net/github/stars/sc-forks/solidity-coverage)](https://github.com/sc-forks/solidity-coverage)
 - [Sourcify](https://github.com/argotorg/sourcify) - Open-source decentralized source code verification service for Ethereum. [![Stars](https://badgen.net/github/stars/argotorg/sourcify)](https://github.com/argotorg/sourcify)
 - [Tenderly](https://tenderly.co/) - Smart contract debugging and monitoring.
+- [n8n-solana-price-alert](https://github.com/DeusAcc/n8n-solana-price-alert) - Free n8n workflow that alerts on Telegram when a token price crosses a threshold, no external database.
 
 ## Libraries & Frameworks
 
