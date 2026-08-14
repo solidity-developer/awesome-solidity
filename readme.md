@@ -96,8 +96,9 @@ Smart contract programming language for the Ethereum Virtual Machine.
 
 ## Advanced Topics
 
-- [Yul Documentation](https://docs.soliditylang.org/en/latest/yul.html) - Low-level language for Ethereum.
+- [Heimdall](https://github.com/Jon-Becker/heimdall-rs) - EVM bytecode decompiler, disassembler, and selector recovery toolkit for analyzing unverified contracts. [![Stars](https://badgen.net/github/stars/Jon-Becker/heimdall-rs)](https://github.com/Jon-Becker/heimdall-rs)
 - [LearnEVM](https://learnevm.com/) - Free advanced EVM course for Solidity developers.
+- [Yul Documentation](https://docs.soliditylang.org/en/latest/yul.html) - Low-level language for Ethereum.
 
 ## AI & Agentic Development
 
