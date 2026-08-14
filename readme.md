@@ -51,6 +51,8 @@ Smart contract programming language for the Ethereum Virtual Machine.
 - [OpenZeppelin Contracts](https://www.openzeppelin.com/solidity-contracts) - Secure smart contract components. [![Stars](https://badgen.net/github/stars/OpenZeppelin/openzeppelin-contracts)](https://github.com/OpenZeppelin/openzeppelin-contracts)
 - [PRBMath](https://github.com/PaulRBerg/prb-math) - Advanced fixed-point math library for Solidity. [![Stars](https://badgen.net/github/stars/PaulRBerg/prb-math)](https://github.com/PaulRBerg/prb-math)
 - [Solady](https://github.com/Vectorized/solady) - Gas-optimized Solidity library using low-level assembly. [![Stars](https://badgen.net/github/stars/Vectorized/solady)](https://github.com/Vectorized/solady)
+- [Solarity Solidity Library](https://github.com/dl-solarity/solidity-lib) - Audited collection of reusable Solidity libraries for math, data structures, and ERC helpers. [![Stars](https://badgen.net/github/stars/dl-solarity/solidity-lib)](https://github.com/dl-solarity/solidity-lib)
+- [solidity-merkle-trees](https://github.com/polytope-labs/solidity-merkle-trees) - Gas-efficient on-chain Merkle multiproof verification library supporting binary trees, Merkle Mountain Ranges, and Patricia tries. [![Stars](https://badgen.net/github/stars/polytope-labs/solidity-merkle-trees)](https://github.com/polytope-labs/solidity-merkle-trees)
 
 ## Security & Best Practices
 
