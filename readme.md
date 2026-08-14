@@ -89,8 +89,10 @@ Smart contract programming language for the Ethereum Virtual Machine.
 
 ## Upgradeable Contracts
 
-- [OpenZeppelin: Upgrades](https://docs.openzeppelin.com/upgrades) - Guide to upgradeable contracts using Transparent/UUPS proxies. [![Stars](https://badgen.net/github/stars/OpenZeppelin/openzeppelin-upgrades)](https://github.com/OpenZeppelin/openzeppelin-upgrades)  
 - [Awesome Diamonds](https://github.com/mudgen/awesome-diamonds) - Curated list of EIP-2535 Diamonds resources, tools, and projects. [![Stars](https://badgen.net/github/stars/mudgen/awesome-diamonds)](https://github.com/mudgen/awesome-diamonds)
+- [OpenZeppelin: Upgrades](https://docs.openzeppelin.com/upgrades) - Guide to upgradeable contracts using Transparent/UUPS proxies. [![Stars](https://badgen.net/github/stars/OpenZeppelin/openzeppelin-upgrades)](https://github.com/OpenZeppelin/openzeppelin-upgrades)  
+- [RareSkills Book of Proxy Patterns](https://rareskills.io/proxy-patterns) - Comprehensive guide to proxy patterns including UUPS, Transparent, Beacon, and Diamond proxies with upgrade safety considerations.
+- [SolidState Solidity](https://github.com/solidstate-network/solidstate-solidity) - Upgradeable-first smart contract library built around EIP-2535 Diamond facets and proxy patterns. [![Stars](https://badgen.net/github/stars/solidstate-network/solidstate-solidity)](https://github.com/solidstate-network/solidstate-solidity)
 
 ## Advanced Topics
 
