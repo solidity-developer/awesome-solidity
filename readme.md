@@ -60,6 +60,7 @@ Smart contract programming language for the Ethereum Virtual Machine.
 - [Smart Contract Security Verification Standard](https://securing.github.io/SCSVS/) - Security checklist. [![Stars](https://badgen.net/github/stars/securing/SCSVS)](https://github.com/securing/SCSVS)
 - [EEA EthTrust Security Levels Specification](https://entethalliance.org/specs/ethtrust-sl/) - Smart contract security certification requirements.
 - [Rekt News](https://rekt.news/) - Investigative journalism and incident analysis of DeFi exploits and hacks.
+- [SCH Smart Contract Audit Checklist](https://smartcontractshacking.com/tools/smart-contract-audit-checklist) - Interactive checklist for scoping and documenting Solidity security reviews.
 - [Smart Contract Security Field Guide](https://scsfg.io/) - Best practices and vulnerabilities resource.
 - [Building Secure Smart Contracts](https://github.com/crytic/building-secure-contracts) - Security guidelines & training by Trail of Bits. [![Stars](https://badgen.net/github/stars/crytic/building-secure-contracts)](https://github.com/crytic/building-secure-contracts)
 
